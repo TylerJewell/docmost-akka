@@ -1,0 +1,9 @@
+The files in this directory are from docmost/docmost
+(https://github.com/docmost/docmost).
+
+Copyright the docmost/docmost authors
+Licensed under AGPL-3.0. The full text is in LICENSE beside this file.
+
+They are reused here verbatim and unmodified, per this harness's RENDERING.md R3.
+Nothing in the parent repository relicenses them; the Apache License at the root
+of this repository does not apply to them.
